@@ -46,7 +46,18 @@ SHA256: d491ddc1ebef6c49df619abf838eb74931a226d7319ae8fb02628ff15ad33342
 SHA512: 327370663c4a4c5756553ca0f7a104d73ba36b84f320dc35aff8ebb561ce28f2ba29dd0d885e82bc40fe2459dd46ecab3d88180591ec0922840eff77a3c39608
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 1.2.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_1.2._amd64.deb
+Size: 6364
+MD5sum: 978010f47168d27f69b833f4c5d7f8be
+SHA1: cb9fd789744d7893d61bc37282baa981366fa4d5
+SHA256: 1815b6f60fdf66ac48e46a86f1f7f067e70edb22e106fda495baffcae4d0435c
+SHA512: e51d42fdb380f750d0e0abaf578958adc0f65b59a62e839d22b01c5f725cde108fc68cc7042ab958c8e7c69a9864947c0c473b228a340ba9435d40d4c878850d
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 2.0.0
@@ -59,7 +70,30 @@ SHA256: 06cdd1beaf03237a7ea0a1c41a24f112aa2a70fea9149a9c49ffb2ee1fda5a43
 SHA512: e33170d8b3fb8bf20e3882272f9e73f2cf2bb5c6ceb6456ae114101d4c3f1ee84fafdbe3a7a81e6835c29cca2cd90706197fbc0b782a5feba3f3d882da59002f
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 2.0.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_2.0._amd64.deb
+Size: 6364
+MD5sum: 57eb7fa676c96c2f7a509ae58e8a43c8
+SHA1: 4a3d31e98a1e9daa0f1989213e39e49c84e1a0ae
+SHA256: 975d4477791f0ca6e2335b70551bcf0f1ba8c07fbfad96fdb0d4aca2a895f553
+SHA512: 26a2a7a350aeced6d9238b0f047cfc5ef9380254aaa8b06c180ca14eb02d8005159b695011b9410d41638ff66ae4274be1d1e252c316330e8b8aba65f71f783e
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
+Package: esh
+Architecture: amd64
+Version: 2.0
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_2.0_amd64.deb
+Size: 6364
+MD5sum: b0cf6587326ca56811de011002b871ce
+SHA1: afbdc26f7fc8820dd58c5d7c6fbcbe71103fb780
+SHA256: b17369282850d158f2afc67bc72d94e343e1611d64d8ce26a3bde9acb121cabf
+SHA512: c5d49b4f5ae4c4eceb43973c0fab3671c2f52b85f78116625784f8cd4dfa20bbaf40eaf3765fee724bbfaecea9da167c0613646ddf6106f573dc3d143a556916
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 2.0.0
@@ -72,7 +106,18 @@ SHA256: 0633cf2471db97293b1c0ffbaf43b3c722cbdd1e9aac7e437b936357016cc680
 SHA512: fa7252520954b8de4d089eae6970c313baba03bd7935606ab3910b7a14ae61266117536506472acf2b0db49068421c7dc216f83e3d956a109e87498a316cb797
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 2.1.1.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_2.1.1._amd64.deb
+Size: 6364
+MD5sum: 1e0fe1df90d47403988ce2473f5ef4c1
+SHA1: 01d8f2b3f5102d9b31a56e4bd4c9aedb15480470
+SHA256: 9b5478e939ae64ff84f0658e701d2e7cff3c003d457ef604c76677db303b4eae
+SHA512: a79786d1254fd371997f7d4bed2780d82e6ec2dfff5903dd889ef2c89d325e304558fefccf257f09c277d1981a7ec2c0e9938fb48770d272326cdfe7f437fb6a
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 2.0.0
@@ -97,7 +142,18 @@ SHA256: 62ddb93d628b2b4d528f4994b5a8a97e226a670ca2ac859f0a2c97decd88a536
 SHA512: 5a94f67e216e1d39aa6120d8d0ee52e38ca729817e9e9e3797e5d1316fcf7e6bd565963b455f828d39b72229b530701ae1245351157f24f3980915de504c93e3
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 2.2.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_2.2._amd64.deb
+Size: 6364
+MD5sum: 8bad90fcbee00da1bf98c33c066b3136
+SHA1: d93fc391d047ae76b457399c797211ee85fd5e5a
+SHA256: 94726766fcf7b1736426e7bf7462f591782706b0915579c564b3ff5700b0b4f5
+SHA512: edf42dc8aa0f47b79f9d97f61c2f74019bc9abad071c0d14fb584ad57031de39aa7d534d9f1f0855cdfbeb04e67cf8af2d5f65a9ffe7c1659feee69aa04473db
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 2.0.0
@@ -110,7 +166,18 @@ SHA256: ec970ac03c9200b1ddde5b3d01845a59a0386af5f315fdea4caec416af57af93
 SHA512: 9ef56f2d9d9e53307189dd762ed5ec6ad950a398dab6472f9caa8b8d6e64afe8b4ca6df713505cbcf92c078fd74de27574d8d8cf49bf43ba70e5c0f4f86a98fd
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 2.3.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_2.3._amd64.deb
+Size: 6364
+MD5sum: f7551062087553b6516f09c268a744ce
+SHA1: 8922f048981c01b8fbaf4546744b3f4822d359d2
+SHA256: 3a2920c432166c8f5950b532a41c8b40ccda1b8bff3db4a83bb75c6547914712
+SHA512: feb33b77183e1f36d17ebc2293028e9bfc3558d1a5218fcb7045a92ec2e160f6f1852cc35a7ce908c9c504295a9fd24451afc7615bdef9067a34fce3749a83ee
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 3.0.0
@@ -123,7 +190,30 @@ SHA256: 6999fff77b3f1a505090172f51a5d1886009150154addcdbc11e7d92c87f9256
 SHA512: 3acdd4dc0b0bb925640104433484c19ef4a5a09681b45cc6383df6207a8418184444f7c37e2733f7a440bb721ddfef8fbec1deba45f4871d8522eaee0d426743
 Description: Electronic Shell - A lightweight professional shell for Termux.
 
---
+Package: esh
+Architecture: amd64
+Version: 3.0.
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_3.0._amd64.deb
+Size: 6364
+MD5sum: 3f14fa047f826663430b031d75865ba3
+SHA1: 2405d3ff934489abc53f25015fb7a1a307b1999a
+SHA256: b96012f97e7f69f682da4ea422025774698743340d9926ff8f8d399e15bd0567
+SHA512: f174ab772b2c351df2f4d1627ba721fada794d5cc37012c2d4e7857e7302ee10a0f3481ba7817b96f6eea0199105192d58a8f5c052f66205f5e5d41d357d8243
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
+Package: esh
+Architecture: amd64
+Version: 3.0
+Maintainer: Professional
+Filename: pool/main/e/esh/esh_3.0_amd64.deb
+Size: 6364
+MD5sum: eb7aa13db18494300d20832ef3441257
+SHA1: 3deeb0df9e8bdeb94c7c39d984c4918d0b8af1a7
+SHA256: 1ba662473825c9013b302823eda0eefa6a4fcfb1fab1f05cec98330e526a081a
+SHA512: e47ec76a8b48e34e772810d7b2bb5ae27103112adceb14e94e90e66d61bca481ea590e6712145ab80be357d83ea4e28c629e5aaa1ef2edbe6ee57a1445bcbb6d
+Description: Electronic Shell - A lightweight professional shell for Termux.
+
 Package: esh
 Architecture: aarch64
 Version: 3.1.0
