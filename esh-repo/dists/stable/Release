@@ -1,25 +1,28 @@
-Date: Thu, 19 Feb 2026 10:37:44 +0000
+Origin: ESH-Project
+Label: ESH
+Suite: stable
+Codename: stable
+Architectures: aarch64 amd64
+Components: main
+Description: Electronic Shell Repository
+Date: Thu, 19 Feb 2026 10:41:59 +0000
 MD5Sum:
- 4ec8a1fde1a325f282e8eb3d9dc51985               38 Release
- 90147ac866b050d121b8de733de7366e             9642 main/binary-aarch64/Packages
- d89e013dfc09dad13c1efbb1a7785e6d             3558 main/binary-aarch64/Packages.gz
+ 7db93f07570ae46c26584c10ddf90326              187 Release
+ 842f14a9236340839f6135a0d80ebe2d             9680 main/binary-aarch64/Packages
  90147ac866b050d121b8de733de7366e             9642 main/binary-amd64/Packages
  d89e013dfc09dad13c1efbb1a7785e6d             3558 main/binary-amd64/Packages.gz
 SHA1:
- 70b000abe84f6fc47e9dfb89af5abfe338d86e74               38 Release
- 07d0a27086f9c73e07960082160406aca24e7705             9642 main/binary-aarch64/Packages
- 915827d082ebda8e4df57e9df204e1ea242d064d             3558 main/binary-aarch64/Packages.gz
+ a5a63af9f203f1c77c64be569803fd02eb2b623e              187 Release
+ 252c50c5a76230e0135a694677a0275c6ddeec72             9680 main/binary-aarch64/Packages
  07d0a27086f9c73e07960082160406aca24e7705             9642 main/binary-amd64/Packages
  915827d082ebda8e4df57e9df204e1ea242d064d             3558 main/binary-amd64/Packages.gz
 SHA256:
- 18ad647f53918ea05bb770a5bb87f5ceb50622f79c111fd2efefce4a711b10c9               38 Release
- f4cce3bd3c0660c55e8a5535ef00546346bfcb04c85ced0e53a42a83320d36bb             9642 main/binary-aarch64/Packages
- 0e0cd4f71e2017c25afeb6bc6f502ce041b76b2a4ecae0bc6bf1dac04d32281a             3558 main/binary-aarch64/Packages.gz
+ c9176cf8b35853ff3a174fb4a5f1fb304fc0a1e1e7138eaa8d6851456c9d522b              187 Release
+ f6f8b6e6e77f9cb4dc49cbcf74944c867746d7a772a9e58b548b0ca31f1d9290             9680 main/binary-aarch64/Packages
  f4cce3bd3c0660c55e8a5535ef00546346bfcb04c85ced0e53a42a83320d36bb             9642 main/binary-amd64/Packages
  0e0cd4f71e2017c25afeb6bc6f502ce041b76b2a4ecae0bc6bf1dac04d32281a             3558 main/binary-amd64/Packages.gz
 SHA512:
- 864ac0d00e0862ed4ba8fb2ce984d50ee87537bae21450e03266bd38d468bff009e317f8d3873a9c487be7f54097ecaab1c031ffe8e308189bb9f2fd7f4fdd0a               38 Release
- 3521f4befa7bb33ac80b16f2ca6eb6f5087eea98db395fc83049e7c2a1db3585d3c7e3c9bcdd3978d4d93dd67e01ac1e92b11918770a1ca285a4c6e2ef0e85f7             9642 main/binary-aarch64/Packages
- 7ae2f56e802a58a777cf311b865ba94773c89adb111f3809e16d89fe8d4a0637bf10d5b9f8d102bee9712b5adeff5d4493090296f6456c8b42f1092c688c97ab             3558 main/binary-aarch64/Packages.gz
+ bd256216bf5ff577558e5f5f8efa88a0030f5b607400547d6a4e947bec9e66a0703a11a061714da35afa393b6d2eb59f4ccc2429d9dd0b9cd9c42208e799664f              187 Release
+ 38b601c08c771f0e6222dd49f1175920da38ec98304ad05162b794b92bb7e7a84ecfb91cccc1777ac530873b15779a402490fbc8861113ac065381a0855ad1b7             9680 main/binary-aarch64/Packages
  3521f4befa7bb33ac80b16f2ca6eb6f5087eea98db395fc83049e7c2a1db3585d3c7e3c9bcdd3978d4d93dd67e01ac1e92b11918770a1ca285a4c6e2ef0e85f7             9642 main/binary-amd64/Packages
  7ae2f56e802a58a777cf311b865ba94773c89adb111f3809e16d89fe8d4a0637bf10d5b9f8d102bee9712b5adeff5d4493090296f6456c8b42f1092c688c97ab             3558 main/binary-amd64/Packages.gz
