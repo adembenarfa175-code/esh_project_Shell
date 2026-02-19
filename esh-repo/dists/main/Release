@@ -1,0 +1,7 @@
+Origin: ESH-Project
+Label: ESH
+Suite: main
+Codename: main
+Architectures: aarch64
+Components: main
+Description: Electronic Shell Repository
