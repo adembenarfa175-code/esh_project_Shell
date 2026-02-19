@@ -1,0 +1,4 @@
+# Pro-Neon Theme for ESH
+export ESH_THEME_NAME="Pro-Neon"
+export PROMPT_COLOR="\e[1;35m" # البنفسجي النيوني
+# هنا يمكن إضافة تعديلات حية على شكل البرومبت مستقبلاً

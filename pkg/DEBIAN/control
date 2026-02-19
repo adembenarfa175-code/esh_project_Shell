@@ -1,0 +1,5 @@
+Package: esh
+Version: 3.0
+Architecture: amd64
+Maintainer: Professional
+Description: Electronic Shell - A lightweight professional shell for Termux.

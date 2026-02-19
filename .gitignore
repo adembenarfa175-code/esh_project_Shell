@@ -1,0 +1,7 @@
+*.o
+*.so
+*.a
+bin/
+deploy_to_github.sh
+build_global_repo.sh
+modern_arch_upgrade.sh
