@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ESH Explorer - esh-repo/</title>
+    <style>
+        body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; padding: 40px; }
+        .box { max-width: 800px; margin: auto; background: #161b22; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; }
+        .header { padding: 15px; background: #21262d; border-bottom: 1px solid #30363d; display: flex; justify-content: space-between; }
+        .item { display: block; padding: 12px; border-bottom: 1px solid #21262d; text-decoration: none; color: #58a6ff; }
+        .item:hover { background: #1f242c; }
+        .item:last-child { border: none; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="header">
+            <span>📂 Path: esh-repo/</span>
+            <a href="../index.html" style="color: #8b949e; text-decoration: none;">↑ Back</a>
+        </div>
+        <div id="list"></div>
+    </div>
+    <script>
+        const files = ['dists/',
+'pool/',];
+        const container = document.getElementById('list');
+        files.forEach(f => {
+            if(!f) return;
+            const a = document.createElement('a');
+            a.href = f;
+            a.className = 'item';
+            a.innerText = f.endsWith('/') ? "📁 " + f : "📄 " + f;
+            container.appendChild(a);
+        });
+    </script>
+</body>
+</html>
